@@ -47,11 +47,15 @@ Further studies involving molecular dynamics simulations and ADMET analysis may 
 
 
 
-<img width="840" height="605" alt="cath_1sao_c2_doced" src="https://github.com/user-attachments/assets/42abdcb7-6074-4e6c-96f8-62aff62b8742" />
+<img width="1097" height="605" alt="cathranthine_1sao_docekd result" src="https://github.com/user-attachments/assets/4e0b8f5d-05b8-4f9f-bbc2-ad7bee029b48" />
 
 
 
 <img width="840" height="605" alt="ajmali_1sao_docked_c2" src="https://github.com/user-attachments/assets/2e01a96c-946f-414c-929c-ad89362df846" />
 
 <img width="840" height="605" alt="vindo_1sao_dockedscore(-8 0)" src="https://github.com/user-attachments/assets/0107d0a8-ad35-4da0-bdac-ece9a4dc41f4" />
+
+
+
+<img width="805" height="601" alt="comparative docking scores Rplot" src="https://github.com/user-attachments/assets/2f3ba643-0dfe-4d7e-9abd-29bef35197c7" />
 
